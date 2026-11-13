@@ -12,7 +12,7 @@ A portfolio of end-to-end machine learning and AI projects covering the full lif
 
 Each notebook follows a structured methodology: problem statement, EDA, preprocessing, model training, quantitative evaluation, and conclusions. Topics span the full ML spectrum: from classical neural networks built from scratch to deep learning, generative AI, and real-time IoT pipelines.
 
-All projects were developed as part of the **Pós-graduação em Inteligência Artificial Aplicada** program at **Universidade do Vale do Rio dos Sinos** (UNISINOS) during 2025.
+All projects were developed as part of the **Pós-graduação em Inteligência Artificial Aplicada** program at **Universidade do Vale do Rio dos Sinos** (UNISINOS) during 2025-2026.
 
 ## Key Skills
 
